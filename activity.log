@@ -17,3 +17,4 @@
 2025-05-11T17:01:43 | touched: .env.example
 2025-03-28T08:23:40 | touched: contracts/Crawlerscan.sol
 2025-11-11T19:12:49 | touched: contracts/Crawlerscan.sol
+2025-01-07T06:54:16 | touched: scripts/deploy.js
